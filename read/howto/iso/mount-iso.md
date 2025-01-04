@@ -27,9 +27,27 @@ grand_parent: 如何
 
 舉例，我們要下載「`https://releases.ubuntu.com/noble/ubuntu-24.04.1-desktop-amd64.iso`」
 
-執行下面指令
+> 執行下面指令，下載「`ubuntu-24.04.1-desktop-amd64.iso`」
 
 ``` sh
 wget -c 'https://releases.ubuntu.com/noble/ubuntu-24.04.1-desktop-amd64.iso'
+```
+
+> 執行下面指令，下載「`SHA256SUMS`」
+
+``` sh
+wget -c 'https://releases.ubuntu.com/noble/SHA256SUMS'
+```
+
+> 接著執行下面指令，做「校驗」
+
+``` sh
+sha256sum -c SHA256SUMS
+```
+
+會顯示類似如下的訊息
+
+```
+ubuntu-24.04.1-desktop-amd64.iso: OK
 ```
 
