@@ -45,9 +45,9 @@ wget -c 'https://releases.ubuntu.com/noble/SHA256SUMS'
 sha256sum -c SHA256SUMS
 ```
 
-會顯示類似如下的訊息
+會顯示類似如下的訊息 (校驗需要等待一段時間，請靜待稍後完成顯示結果)
 
 ```
-ubuntu-24.04.1-desktop-amd64.iso: OK
+ubuntu-24.04.1-live-server-amd64.iso: OK
 ```
 
