@@ -70,6 +70,12 @@ mkdir -p iso-dir
 sudo mount -o loop ubuntu-24.04.1-live-server-amd64.iso iso-dir
 ```
 
+或是執行下面指令
+
+``` sh
+sudo mount -o loop -t iso9660 ubuntu-24.04.1-live-server-amd64.iso iso-dir
+```
+
 > 掛載成功後，執行下面指令
 
 ``` sh
