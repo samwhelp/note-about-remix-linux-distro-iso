@@ -12,12 +12,14 @@ grand_parent: 如何
 
 ## 主題
 
-* [範例下載](#範例下載)
+* [下載「ISO」](#下載iso)
+* [掛載「ISO」](#掛載iso)
+* [卸載「ISO」](#卸載iso)
 
 
 
 
-## 範例下載
+## 下載「ISO」
 
 可以到下面網址，找到一些「ISO 檔案」，可以下載下來，當作範例操作。
 
@@ -51,3 +53,50 @@ sha256sum -c SHA256SUMS
 ubuntu-24.04.1-live-server-amd64.iso: OK
 ```
 
+
+
+
+## 掛載「ISO」
+
+> 執行下面指令，產生一個目錄，名稱為「`iso-dir`」
+
+``` sh
+mkdir -p iso-dir
+```
+
+> 執行下面指令，將「`ubuntu-24.04.1-live-server-amd64.iso`」掛載到「`iso-dir`」這個目錄。
+
+``` sh
+sudo mount -o loop ubuntu-24.04.1-live-server-amd64.iso iso-dir
+```
+
+> 掛載成功後，執行下面指令
+
+``` sh
+ls iso-dir/ -1
+```
+
+顯示
+
+```
+boot
+boot.catalog
+casper
+dists
+EFI
+install
+md5sum.txt
+pool
+ubuntu
+```
+
+
+
+
+## 卸載「ISO」
+
+> 執行下面指令，卸載「ISO」
+
+``` sh
+sudo umount iso-dir
+```
