@@ -14,4 +14,4 @@ grand_parent: 如何
 
 | 範例腳本 |
 | --- |
-| [create-work-img](https://github.com/samwhelp/note-about-remix-linux-distro-iso/tree/gh-pages/_demo/howto/create-work-img) |
+| [create-work-img](https://github.com/samwhelp/note-about-remix-linux-distro-iso/tree/gh-pages/_demo/howto/start/create-work-img) |
