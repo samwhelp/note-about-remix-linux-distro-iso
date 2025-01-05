@@ -17,7 +17,7 @@ parent: 如何
 | ---- |
 | [下載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/download-iso.html) |
 | [掛載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/mount-iso.html) |
-| [解開「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/extrace-iso.html) |
+| [解開「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/extract-iso.html) |
 
 
 
