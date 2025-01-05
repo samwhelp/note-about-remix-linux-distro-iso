@@ -11,19 +11,31 @@
 
 ## 主題
 
+* [範例](#範例)
+* [如何](#如何)
 * [連結](read/link)
-* [實作範例](#實作範例)
 * [相關筆記](#相關筆記)
 
 
 
 
-## 實作範例
+## 範例
 
-| 實作範例 | GitHub |
+| 範例 | GitHub |
 | ------- | ------ |
 | [demo-ubuntu-iso-remix](https://samwhelp.github.io/demo-ubuntu-iso-remix/) | [GitHub](https://github.com/samwhelp/demo-ubuntu-iso-remix) |
 | [demo-debian-iso-remix](https://samwhelp.github.io/demo-debian-iso-remix/) | [GitHub](https://github.com/samwhelp/demo-debian-iso-remix) |
+
+
+
+
+## 如何
+
+| 如何 |
+| ---- |
+| [下載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/download-iso.html) |
+| [掛載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/mount-iso.html) |
+| [解開「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/extrace-iso.html) |
 
 
 
