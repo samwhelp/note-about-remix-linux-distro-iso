@@ -24,7 +24,7 @@ grand_parent: 如何
 
 ## 承前
 
-> 延續之前的「[如何下載「ISO檔」](download-iso)」，接下來了解「[如何掛載「ISO檔」](#掛載iso)」。
+> 延續之前的「[如何下載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/download-iso.html)」，接下來了解「[如何掛載「ISO檔」](#掛載iso)」。
 
 
 
@@ -92,4 +92,4 @@ sudo umount iso-dir
 
 ## 接下來
 
-* [解開「ISO」](extract-iso)
+* [解開「ISO」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/extrace-iso.html)

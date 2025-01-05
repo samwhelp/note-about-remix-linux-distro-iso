@@ -14,10 +14,10 @@ parent: 如何
 ## 議題
 
 | 議題 |
-| ------------------- |
-| [下載「ISO檔」](iso/download-iso) |
-| [掛載「ISO檔」](iso/mount-iso) |
-| [解開「ISO檔」](iso/extract-iso) |
+| ---- |
+| [下載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/download-iso.html) |
+| [掛載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/mount-iso.html) |
+| [解開「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/extrace-iso.html) |
 
 
 

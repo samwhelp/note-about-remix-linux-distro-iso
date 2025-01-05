@@ -26,8 +26,8 @@ grand_parent: 如何
 
 > 延續之前的
 
-* 「[如何下載「ISO檔」](download-iso)」
-* 「[如何掛載「ISO檔」](mount-iso)」
+* 「[如何下載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/download-iso.html)」
+* 「[如何掛載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/mount-iso.html)」
 
 > 接下來了解「[如何解開「ISO檔」](#解開iso)」。
 
@@ -36,7 +36,7 @@ grand_parent: 如何
 
 ## 解開「ISO」
 
-> 除了可以透過「[掛載「ISO檔」](mount-iso)」的方式，將「ISO檔」裡面的檔案，複製出來。
+> 除了可以透過「[掛載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/mount-iso.html)」的方式，將「ISO檔」裡面的檔案，複製出來。
 
 > 也可以透過「[xorriso](https://manpages.debian.org/stable/xorriso/xorriso.1.en.html)」這個指令，直接將「ISO檔」裡面的檔案，提取出來。
 
