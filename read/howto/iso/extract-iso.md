@@ -83,3 +83,10 @@ mod_iso_extract "debian-live-12.8.0-amd64-standard.iso" "iso"
 ``` sh
 sudo apt-get install xorriso
 ```
+
+
+
+
+## Manpage
+
+* [man xorriso](https://manpages.debian.org/bookworm/xorriso/xorriso.1.en.html)
