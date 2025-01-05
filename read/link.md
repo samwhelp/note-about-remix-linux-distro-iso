@@ -83,6 +83,16 @@ has_children: true
 
 
 
+## Refer / Usage / qemu
+
+> [man qemu-system-x86_64](https://manpages.debian.org/bookworm/qemu-system-x86/qemu-system-x86_64.1.en.html)
+
+| Refer / Usage / qemu |
+| -------------------- |
+| Ultramarine-Linux / image / [qemu.sh](https://github.com/Ultramarine-Linux/images/blob/um41/qemu.sh) |
+
+
+
 
 ## Wiki
 
