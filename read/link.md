@@ -37,6 +37,8 @@ has_children: true
 
 ## Refer / Usage / xorriso
 
+> [man xorriso](https://manpages.debian.org/stable/xorriso/xorriso.1.en.html)
+
 | Refer / Usage / xorriso |
 | ----------------------- |
 | [iso-build](https://samwhelp.github.io/note-about-lika-live-build-config/read/issue/iso-build.html#explore) |
@@ -51,6 +53,8 @@ has_children: true
 
 ## Refer / Usage / grub-mkrescue
 
+> [man grub-mkrescue](https://manpages.debian.org/stable/grub-common/grub-mkrescue.1.en.html)
+
 | Refer / Usage / grub-mkrescue |
 | ----------------------------- |
 | [改裝 Ubuntu](http://amitmason.blogspot.com/2011/04/ubuntu.html) |
@@ -64,6 +68,8 @@ has_children: true
 
 
 ## Refer / Usage / genisoimage
+
+> [man genisoimage](https://manpages.debian.org/stable/genisoimage/genisoimage.1.en.html)
 
 | Refer / Usage / genisoimage |
 | --------------------------- |
