@@ -10,48 +10,21 @@ grand_parent: 如何
 # 如何掛載「ISO檔」
 
 
+
+
 ## 主題
 
-* [下載「ISO」](#下載iso)
+* [承前](#承前)
 * [掛載「ISO」](#掛載iso)
 * [卸載「ISO」](#卸載iso)
+* [接下來](#接下來)
 
 
 
 
-## 下載「ISO」
+## 承前
 
-可以到下面網址，找到一些「ISO 檔案」，可以下載下來，當作範例操作。
-
-* [https://www.debian.org/CD/live/index.en.html](https://www.debian.org/CD/live/index.en.html)
-* [https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/)
-
-
-舉例，我們要下載「`https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.8.0-amd64-standard.iso`」
-
-> 執行下面指令，下載「`debian-live-12.8.0-amd64-standard.iso`」
-
-``` sh
-wget -c 'https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.8.0-amd64-standard.iso'
-```
-
-> 執行下面指令，下載「`SHA256SUMS`」
-
-``` sh
-wget -c 'https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/SHA256SUMS'
-```
-
-> 接著執行下面指令，做「校驗」
-
-``` sh
-sha256sum -c SHA256SUMS
-```
-
-會顯示類似如下的訊息 (校驗需要等待一段時間，請靜待稍後完成顯示結果)
-
-```
-debian-live-12.8.0-amd64-standard.iso: OK
-```
+> 延續之前的「[如何下載「ISO檔」](download-iso)」，接下來了解「[如何掛載「ISO檔」](#掛載iso)」。
 
 
 
@@ -113,3 +86,10 @@ tools
 ``` sh
 sudo umount iso-dir
 ```
+
+
+
+
+## 接下來
+
+* [解開「ISO」](extract-iso)
