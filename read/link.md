@@ -1,11 +1,11 @@
 ---
-title: Link
+title: 連結
 nav_order: 9000
 has_children: true
 ---
 
 
-# Link
+# 連結
 
 
 ## Search
