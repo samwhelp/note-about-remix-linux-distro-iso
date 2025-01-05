@@ -29,7 +29,7 @@ grand_parent: 如何
 * [如何下載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/download-iso.html)
 * [如何掛載「ISO檔」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/mount-iso.html)
 
-> 接下來了解「[如何解開「ISO檔」](#解開iso)」。
+> 接下來了解『[如何解開「ISO檔」](#解開iso)』。
 
 
 
