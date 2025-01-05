@@ -23,22 +23,22 @@ grand_parent: 如何
 
 可以到下面網址，找到一些「ISO 檔案」，可以下載下來，當作範例操作。
 
-* [https://releases.ubuntu.com/](https://releases.ubuntu.com/)
-* [https://releases.ubuntu.com/noble/](https://releases.ubuntu.com/noble/)
+* [https://www.debian.org/CD/live/index.en.html](https://www.debian.org/CD/live/index.en.html)
+* [https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/)
 
 
-舉例，我們要下載「`https://releases.ubuntu.com/noble/ubuntu-24.04.1-desktop-amd64.iso`」
+舉例，我們要下載「`https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.8.0-amd64-standard.iso`」
 
-> 執行下面指令，下載「`ubuntu-24.04.1-desktop-amd64.iso`」
+> 執行下面指令，下載「`debian-live-12.8.0-amd64-standard.iso`」
 
 ``` sh
-wget -c 'https://releases.ubuntu.com/noble/ubuntu-24.04.1-desktop-amd64.iso'
+wget -c 'https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.8.0-amd64-standard.iso'
 ```
 
 > 執行下面指令，下載「`SHA256SUMS`」
 
 ``` sh
-wget -c 'https://releases.ubuntu.com/noble/SHA256SUMS'
+wget -c 'https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/SHA256SUMS'
 ```
 
 > 接著執行下面指令，做「校驗」
@@ -50,7 +50,7 @@ sha256sum -c SHA256SUMS
 會顯示類似如下的訊息 (校驗需要等待一段時間，請靜待稍後完成顯示結果)
 
 ```
-ubuntu-24.04.1-live-server-amd64.iso: OK
+debian-live-12.8.0-amd64-standard.iso: OK
 ```
 
 
@@ -64,16 +64,16 @@ ubuntu-24.04.1-live-server-amd64.iso: OK
 mkdir -p iso-dir
 ```
 
-> 執行下面指令，將「`ubuntu-24.04.1-live-server-amd64.iso`」掛載到「`iso-dir`」這個目錄。
+> 執行下面指令，將「`debian-live-12.8.0-amd64-standard.iso`」掛載到「`iso-dir`」這個目錄。
 
 ``` sh
-sudo mount -o loop ubuntu-24.04.1-live-server-amd64.iso iso-dir
+sudo mount -o loop debian-live-12.8.0-amd64-standard.iso iso-dir
 ```
 
 或是執行下面指令
 
 ``` sh
-sudo mount -o loop -t iso9660 ubuntu-24.04.1-live-server-amd64.iso iso-dir
+sudo mount -o loop -t iso9660 debian-live-12.8.0-amd64-standard.iso iso-dir
 ```
 
 > 掛載成功後，執行下面指令
@@ -86,14 +86,21 @@ ls iso-dir/ -1
 
 ```
 boot
-boot.catalog
-casper
+debian
 dists
 EFI
+efi.img
+firmware
 install
+isolinux
+live
+md5sum.README
 md5sum.txt
 pool
-ubuntu
+pool-udeb
+sha256sum.README
+sha256sum.txt
+tools
 ```
 
 
