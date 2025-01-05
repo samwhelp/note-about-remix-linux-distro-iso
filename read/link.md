@@ -47,6 +47,8 @@ has_children: true
 | Nitrux / iso-tool / [iso-tool](https://github.com/Nitrux/iso-tool/blob/legacy/iso-tool#L163-L179) |
 | Nitrux / tools / [mkiso](https://github.com/Nitrux/tools/blob/master/mkiso#L143-L154) |
 | Arch Linux / archiso / [mkarchiso](https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/archiso/mkarchiso?ref_type=heads#L1736-L1748) |
+| Ultramarine Linux / [Link](https://samwhelp.github.io/note-about-ultramarine/read/link.html) |
+| Fedora / katsu / src / [builder.rs](https://github.com/FyraLabs/katsu/blob/main/src/builder.rs#L807) |
 
 
 
