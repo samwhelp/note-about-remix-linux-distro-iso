@@ -40,7 +40,7 @@ has_children: true
 | Refer / Usage / xorriso |
 | ----- |
 | [iso-build](https://samwhelp.github.io/note-about-lika-live-build-config/read/issue/iso-build.html#explore) |
-| [/usr/lib/live/build/binary_iso](https://salsa.debian.org/live-team/live-build/-/blob/master/scripts/build/binary_iso?ref_type=heads#L189-L192) |
+| [/usr/lib/live/build/binary_iso](https://salsa.debian.org/live-team/live-build/-/blob/master/scripts/build/binary_iso?ref_type=heads#L183-L192) |
 | live-custom-ubuntu-from-scratch / scripts / [build.sh](https://github.com/mvallim/live-custom-ubuntu-from-scratch/blob/master/scripts/build.sh#L158-L191) |
 | Nitrux / iso-tool / [iso-tool](https://github.com/Nitrux/iso-tool/blob/legacy/iso-tool#L163-L179) |
 | Nitrux / tools / [mkiso](https://github.com/Nitrux/tools/blob/master/mkiso#L143-L154) |
