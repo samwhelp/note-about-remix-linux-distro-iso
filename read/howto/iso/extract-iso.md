@@ -89,4 +89,4 @@ sudo apt-get install xorriso
 
 ## Manpage
 
-* [man xorriso](https://manpages.debian.org/bookworm/xorriso/xorriso.1.en.html)
+* [man xorriso](https://manpages.debian.org/stable/xorriso/xorriso.1.en.html)
