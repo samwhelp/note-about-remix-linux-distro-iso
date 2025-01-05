@@ -38,12 +38,40 @@ has_children: true
 ## Refer / Usage / xorriso
 
 | Refer / Usage / xorriso |
-| ----- |
+| ----------------------- |
 | [iso-build](https://samwhelp.github.io/note-about-lika-live-build-config/read/issue/iso-build.html#explore) |
 | [/usr/lib/live/build/binary_iso](https://salsa.debian.org/live-team/live-build/-/blob/master/scripts/build/binary_iso?ref_type=heads#L183-L192) |
 | live-custom-ubuntu-from-scratch / scripts / [build.sh](https://github.com/mvallim/live-custom-ubuntu-from-scratch/blob/master/scripts/build.sh#L158-L191) |
 | Nitrux / iso-tool / [iso-tool](https://github.com/Nitrux/iso-tool/blob/legacy/iso-tool#L163-L179) |
 | Nitrux / tools / [mkiso](https://github.com/Nitrux/tools/blob/master/mkiso#L143-L154) |
+| Arch Linux / archiso / [mkarchiso](https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/archiso/mkarchiso?ref_type=heads#L1736-L1748) |
+
+
+
+
+## Refer / Usage / grub-mkrescue
+
+| Refer / Usage / grub-mkrescue |
+| ----------------------------- |
+| [改裝 Ubuntu](http://amitmason.blogspot.com/2011/04/ubuntu.html) |
+| Ubuntu 探索筆記 / 連結 / [iso-remix](https://samwhelp.github.io/note-about-ubuntu/read/link/iso-remix.html) |
+| [Ubuntu Remixes](https://gitlab.com/ubuntu-unity/ubuntu-remixes) |
+| Ubuntu Remixes / Skull / [Makefile](https://gitlab.com/ubuntu-unity/ubuntu-remixes/skull/-/blob/impish/Makefile#L75) |
+| Ubuntu Remixes / Ubuntu Mate / [Makefile](https://gitlab.com/ubuntu-unity/ubuntu-remixes/ubuntu-mate/-/blob/impish/Makefile#L75) |
+| Ubuntu Remixes / Ubuntu Cinnamon / [Makefile](https://gitlab.com/ubuntu-unity/ubuntu-remixes/ubuntu-cinnamon/-/blob/impish/Makefile#L78) |
+
+
+
+
+## Refer / Usage / genisoimage
+
+| Refer / Usage / genisoimage |
+| --------------------------- |
+| gxde-iso-builder / iso-template / [amd64-build.sh](https://github.com/GXDE-OS/gxde-iso-builder/blob/main/iso-template/amd64-build.sh#L3) |
+| gxde-iso-builder-remix / iso-template / [amd64-build.sh](https://github.com/samwhelp/gxde-iso-builder-remix/blob/main/iso-template/amd64-build.sh#L3) |
+| gxde-iso-builder-refactoring / iso-template / [amd64-build.sh](https://github.com/samwhelp/gxde-iso-builder-refactoring/blob/main/factory/iso-template/amd64-build.sh#L3) |
+| gxde-iso-builder-enhance / iso-template / [amd64-build.sh](https://github.com/samwhelp/gxde-iso-builder-enhance/blob/main/factory/iso-template/amd64-build.sh#L3) |
+| debian-iso-builder-start / iso-template / [amd64-build.sh](https://github.com/samwhelp/debian-iso-builder-start/blob/main/factory/iso-template/amd64-build.sh#L9) |
 
 
 
