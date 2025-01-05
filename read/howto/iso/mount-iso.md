@@ -92,4 +92,4 @@ sudo umount iso-dir
 
 ## 接下來
 
-* [解開「ISO」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/extrace-iso.html)
+* [解開「ISO」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/extract-iso.html)

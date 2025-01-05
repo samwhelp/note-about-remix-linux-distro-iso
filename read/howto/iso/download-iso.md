@@ -67,4 +67,4 @@ debian-live-12.8.0-amd64-standard.iso: OK
 ## 接下來
 
 * [掛載「ISO」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/mount-iso.html)
-* [解開「ISO」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/extrace-iso.html)
+* [解開「ISO」](https://samwhelp.github.io/note-about-remix-linux-distro-iso/read/howto/iso/extract-iso.html)
