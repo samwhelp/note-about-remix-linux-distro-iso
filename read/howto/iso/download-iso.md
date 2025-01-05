@@ -26,6 +26,7 @@ grand_parent: 如何
 可以到下面網址，找到一些「ISO 檔案」，可以下載下來，當作範例操作。
 
 * [https://www.debian.org/CD/live/index.en.html](https://www.debian.org/CD/live/index.en.html)
+* [https://www.debian.org/CD/live/index.zh-tw.html](https://www.debian.org/CD/live/index.zh-tw.html)
 * [https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/)
 
 
