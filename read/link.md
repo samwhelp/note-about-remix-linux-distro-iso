@@ -49,6 +49,8 @@ has_children: true
 | Arch Linux / archiso / [mkarchiso](https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/archiso/mkarchiso?ref_type=heads#L1736-L1748) |
 | Ultramarine Linux / [Link](https://samwhelp.github.io/note-about-ultramarine/read/link.html) |
 | Fedora / katsu / src / [builder.rs](https://github.com/FyraLabs/katsu/blob/main/src/builder.rs#L807) |
+| MX-Linux / build-iso-mx / [build-iso](https://github.com/MX-Linux/build-iso-mx/blob/master/build-iso#L2563)
+| grml / grml-live / remaster / [grml-live-remaster](https://github.com/grml/grml-live/blob/master/remaster/grml-live-remaster#L50) |
 
 
 
