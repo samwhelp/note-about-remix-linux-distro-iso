@@ -51,6 +51,7 @@ has_children: true
 | Fedora / katsu / src / [builder.rs](https://github.com/FyraLabs/katsu/blob/main/src/builder.rs#L807) |
 | MX-Linux / build-iso-mx / [build-iso](https://github.com/MX-Linux/build-iso-mx/blob/master/build-iso#L2563)
 | grml / grml-live / remaster / [grml-live-remaster](https://github.com/grml/grml-live/blob/master/remaster/grml-live-remaster#L50) |
+| KaOS / live-uefi / live-iso / [mkkdeosiso](https://codeberg.org/KaOS/live-uefi/src/branch/master/live-iso/mkkdeosiso#L243-L259) |
 
 
 
