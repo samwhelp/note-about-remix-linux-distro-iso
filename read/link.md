@@ -52,6 +52,9 @@ has_children: true
 | MX-Linux / build-iso-mx / [build-iso](https://github.com/MX-Linux/build-iso-mx/blob/master/build-iso#L2563)
 | grml / grml-live / remaster / [grml-live-remaster](https://github.com/grml/grml-live/blob/master/remaster/grml-live-remaster#L50) |
 | KaOS / live-uefi / live-iso / [mkkdeosiso](https://codeberg.org/KaOS/live-uefi/src/branch/master/live-iso/mkkdeosiso#L243-L259) |
+| Pika-OS / live-iso-gnome / [build.sh](https://git.pika-os.com/images/live-iso-gnome/src/branch/main/build.sh#L95) |
+| Pika-OS / live-iso-kde / [build.sh](https://git.pika-os.com/images/live-iso-kde/src/branch/main/build.sh#L95) |
+| Pika-OS / live-iso-hyprland / [build.sh](https://git.pika-os.com/images/live-iso-hyprland/src/branch/main/build.sh#L95) |
 
 
 
