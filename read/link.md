@@ -55,6 +55,8 @@ has_children: true
 | Pika-OS / live-iso-gnome / [build.sh](https://git.pika-os.com/images/live-iso-gnome/src/branch/main/build.sh#L95) |
 | Pika-OS / live-iso-kde / [build.sh](https://git.pika-os.com/images/live-iso-kde/src/branch/main/build.sh#L95) |
 | Pika-OS / live-iso-hyprland / [build.sh](https://git.pika-os.com/images/live-iso-hyprland/src/branch/main/build.sh#L95) |
+| AnduinOS / 1.3 / [build.sh](https://github.com/samwhelp/AnduinOS/blob/1.3/src/build.sh#L298-L321) |
+| AnduinOS / debian / [build.sh](https://github.com/samwhelp/AnduinOS/blob/debian/src/build.sh#L306-L329) |
 
 
 
