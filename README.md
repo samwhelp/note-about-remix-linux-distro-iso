@@ -5,6 +5,10 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Remix Linux Distro ISO / 探索筆記](https://samwhelp.github.io/note-about-remix-linux-distro-iso/) | [GitHub](https://github.com/samwhelp/note-about-remix-linux-distro-iso) |
+| [ISO Builder 探索筆記](https://samwhelp.github.io/note-about-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-iso-builder) |
+| [Debian / ISO Builder / 探索筆記](https://samwhelp.github.io/note-about-debian-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-debian-iso-builder) |
+| [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lika-live-build-config) |
+
 
 
 
@@ -46,8 +50,6 @@
 | ---- | ------ |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
-| [Debian / ISO Builder / 探索筆記](https://samwhelp.github.io/note-about-debian-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-debian-iso-builder) |
-| [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lika-live-build-config) |
 
 
 
